@@ -1,0 +1,4 @@
+Hi everyone
+We are learning file io
+using Python.
+I love learning Python
